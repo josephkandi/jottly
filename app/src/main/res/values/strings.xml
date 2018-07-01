@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Jottly</string>
+    <string name="title_activity_main">Jottly</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save">Save</string>
+    <string name="notes">Write your journal notes here</string>
+    <string name="note_title">Give a title to your note</string>
+    <string name="cancel">Cancel</string>
+    <string name="err_title_required">Title is required</string>
+    <string name="err_empty_note">The notes section should not be empty</string>
+    <string name="edit">Edit</string>
+    <string name="done">Done</string>
+    <string name="journal_deleted">Journal Entry Deleted</string>
+    <string name="undo">Undo</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="email_address">email_address</string>
+</resources>
